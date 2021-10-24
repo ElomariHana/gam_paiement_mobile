@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020203388313",
+    "project_id": "gam-paiement-9d766",
+    "storage_bucket": "gam-paiement-9d766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020203388313:android:79cff57732733c76fa5708",
+        "android_client_info": {
+          "package_name": "gampaiement.gam_paiement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020203388313-e3lsh12ls33je88hb22j8n8ta3popopl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBePWGU02qqg-0higrZSAWdU-N589FSfmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020203388313-e3lsh12ls33je88hb22j8n8ta3popopl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
